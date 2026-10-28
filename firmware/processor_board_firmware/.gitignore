@@ -1,0 +1,6 @@
+Debug/
+Release/
+Binaries/
+*.launch
+Backup/
+*.pcs
